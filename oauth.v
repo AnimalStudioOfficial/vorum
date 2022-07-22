@@ -8,12 +8,12 @@ import (
 )
 
 const (
-	//CLIENT_ID     = ''
-	//CLIENT_SECRET = ''
+	CLIENT_ID     = '4050959e20dc57720763'
+	CLIENT_SECRET = '78a688210c992d371ced0451fd4b64825aa6a2b0'
 	//oauth_client_id = os.getenv('VORUM_OAUTH_CLIENT_ID')
 	//oauth_client_secret = os.getenv('VORUM_OAUTH_SECRET')
-	CLIENT_ID = os.getenv('VORUM_OAUTH_CLIENT_ID')
-	CLIENT_SECRET = os.getenv('VORUM_OAUTH_SECRET')
+	//CLIENT_ID = os.getenv('VORUM_OAUTH_CLIENT_ID')
+	//CLIENT_SECRET = os.getenv('VORUM_OAUTH_SECRET')
 )
 
 struct GitHubUser {
